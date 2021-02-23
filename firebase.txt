@@ -1,0 +1,29 @@
+1) Create Firebase account
+
+2) create new project and set a name to your project
+
+3) select web </> symbol to connect your project with firebase
+
+4) set name again then you will get code 
+
+5) paste that code in your all html files head section
+
+
+6) open cmd from menu or windows button
+
+7) npm install -g firebase-tools  (it will save firebase in your pc)
+
+
+8) firebase login (it will get your account information)
+
+9)firebase init  (Then you have to ready (press y))
+
+10) select hosting with space and press enter
+
+11) Select project use exsiting project and press enter
+
+12) project name and press enter
+
+13) public and press enter
+
+14) firebase deploy
